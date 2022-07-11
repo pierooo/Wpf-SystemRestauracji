@@ -1,2 +1,4 @@
 # Wpf-SystemRestauracji
-Project under development. Client side MVVM WPF project.
+Project under development. 
+Semester student project of UI course.
+Client side MVVM WPF project.
