@@ -1,0 +1,154 @@
+﻿<UserControl x:Class="SystemRestauracji.Views.NowyDostawcaView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:SystemRestauracji.Views"
+             xmlns:resx ="clr-namespace:SystemRestauracji.ViewResources"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800">
+    <UserControl.Resources>
+        <ResourceDictionary Source="StyleZakladekResources.xaml"/>
+    </UserControl.Resources>
+    <ScrollViewer HorizontalScrollBarVisibility="Visible">
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="auto"/>
+                <RowDefinition Height="auto"/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition Width="auto"/>
+            </Grid.ColumnDefinitions>
+
+            <GroupBox Header="Nowy Dostawca" Style="{StaticResource GroupBoxStandardowy}">
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="80"/>
+                        <ColumnDefinition Width="auto"/>
+                        <ColumnDefinition Width="80"/>
+                        <ColumnDefinition Width="120"/>
+                        <ColumnDefinition Width="auto"/>
+                        <ColumnDefinition Width="*"/>
+                    </Grid.ColumnDefinitions>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="auto"/>
+                        <RowDefinition/>
+                        <RowDefinition/>
+                        <RowDefinition/>
+                        <RowDefinition/>
+                    </Grid.RowDefinitions>
+                    <Label Content="{x:Static resx:GlobalResources.Kod}" Style="{StaticResource LabelStandardowy}"/>
+                    <TextBox Text="TELEGRAF" Grid.Column="1" Style="{StaticResource TextBoxStandardowy}"/>
+                    <Label Content="{x:Static resx:GlobalResources.NIP}" Grid.Column="2" Style="{StaticResource LabelStandardowy}"/>
+                    <TextBox Grid.Column="3" Style="{StaticResource TextBoxStandardowy}"/>
+                    <CheckBox Content="{x:Static resx:GlobalResources.KlienAktywny}" Grid.Column="4" Style="{StaticResource CheckBoxStandardowy}" Grid.ColumnSpan="3"/>
+                    <Label Content="{x:Static resx:GlobalResources.Regon}" Grid.Column="2" Grid.Row="1" Style="{StaticResource LabelStandardowy}"/>
+                    <TextBox Grid.Column="3" Grid.Row="1" Style="{StaticResource TextBoxStandardowy}"/>
+                    <Border Grid.Column="4" Grid.Row="1"  IsEnabled="False" Grid.RowSpan="2" Style="{StaticResource BorderStandardowy}">
+                        <StackPanel>
+                            <CheckBox Content="Podmiot gospodarczy" IsChecked="True" Style="{StaticResource CheckBoxStandardowy}"/>
+                            <CheckBox Content="Osoba fizyczna" Style="{StaticResource CheckBoxStandardowy}"/>
+                        </StackPanel>
+                    </Border>
+                    <Label Content="{x:Static resx:GlobalResources.Rodzaj}" Grid.Column="0" Grid.Row="2" Style="{StaticResource LabelStandardowy}"/>
+                    <StackPanel Orientation="Horizontal" Grid.Row="2" Grid.Column="1">
+                        <CheckBox Content="Odb" IsChecked="True" Style="{StaticResource CheckBoxStandardowy}"/>
+                        <CheckBox Content="Dost" Style="{StaticResource CheckBoxStandardowy}"/>
+                        <CheckBox Content="Konk" Style="{StaticResource CheckBoxStandardowy}"/>
+                        <CheckBox Content="Par" Style="{StaticResource CheckBoxStandardowy}"/>
+                        <CheckBox Content="Pot" Style="{StaticResource CheckBoxStandardowy}"/>
+                    </StackPanel>
+                    <Label Content="{x:Static resx:GlobalResources.Pesel}" Grid.Column="2" Grid.Row="2" Style="{StaticResource LabelStandardowy}"/>
+                    <TextBox Grid.Column="3" Grid.Row="2" Style="{StaticResource TextBoxStandardowy}"/>
+                    <Label Content="{x:Static resx:GlobalResources.Nazwa}" Grid.Column="0" Grid.Row="3" Style="{StaticResource LabelStandardowy}"/>
+                    <TextBox Text="F.H. Telegraf" Grid.Column="1" Grid.Row="3" Style="{StaticResource TextBoxStandardowy}" Grid.ColumnSpan="4"/>
+                    <Label Content="{x:Static resx:GlobalResources.Nazwa}" Grid.Column="0" Grid.Row="4" Style="{StaticResource LabelStandardowy}"/>
+                    <TextBox Text="F.H. Telegraf" Grid.Column="1" Grid.Row="4" Style="{StaticResource TextBoxStandardowy}" Grid.ColumnSpan="2"/>
+                    <TextBox Text="F.H. Telegraf" Grid.Column="3" Grid.Row="4" Style="{StaticResource TextBoxStandardowy}" Grid.ColumnSpan="2"/>
+
+                    <GroupBox Header="{x:Static resx:GlobalResources.TechnologieProdukcjiPieczatek}" Grid.Column="5" Grid.RowSpan="5" Style="{StaticResource GroupBoxStandardowy}">
+                        <StackPanel>
+                            <CheckBox Content="Brak pieczątek w ofercie" Style="{StaticResource CheckBoxStandardowy}"/>
+                            <CheckBox Content="Technologia polimerowa" Style="{StaticResource CheckBoxStandardowy}"/>
+                            <CheckBox Content="Technologia laserowa" Style="{StaticResource CheckBoxStandardowy}"/>
+                            <CheckBox Content="Technologia FLASH" Style="{StaticResource CheckBoxStandardowy}"/>
+                            <CheckBox Content="Podzleca" Style="{StaticResource CheckBoxStandardowy}"/>
+                        </StackPanel>
+                    </GroupBox>
+                </Grid>
+            </GroupBox>
+
+            <GroupBox Header="{x:Static resx:GlobalResources.DaneAdresoweKontrahenta}" Grid.Row="1" Style="{StaticResource GroupBoxStandardowy}">
+                <Grid>
+                    <StackPanel>
+                        <StackPanel Orientation="Horizontal">
+                            <Label Content="{x:Static resx:GlobalResources.OsobaKontaktowa}" Style="{StaticResource LabelStandardowy}"/>
+                            <TextBox Width="450" Style="{StaticResource TextBoxStandardowy}"/>
+                            <Label Content="{x:Static resx:GlobalResources.EMail}" Style="{StaticResource LabelStandardowy}"/>
+                            <TextBox Width="120" Style="{StaticResource TextBoxStandardowy}"/>
+                        </StackPanel>
+                        <StackPanel Orientation="Horizontal">
+                            <Label Content="{x:Static resx:GlobalResources.EMail2}" Style="{StaticResource LabelStandardowy}"/>
+                            <TextBox Width="120" Style="{StaticResource TextBoxStandardowy}"/>
+                            <Label Content="{x:Static resx:GlobalResources.EMail3}" Style="{StaticResource LabelStandardowy}"/>
+                            <TextBox Width="120" Style="{StaticResource TextBoxStandardowy}"/>
+                            <Label Content="{x:Static resx:GlobalResources.EMailCC}" Style="{StaticResource LabelStandardowy}"/>
+                            <TextBox Width="120" Style="{StaticResource TextBoxStandardowy}"/>
+
+                        </StackPanel>
+                    </StackPanel>
+                </Grid>
+            </GroupBox>
+
+            <GroupBox Header="{x:Static resx:GlobalResources.Handlowe}" Grid.Column="1" Grid.RowSpan="2">
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition/>
+                        <ColumnDefinition/>
+                    </Grid.ColumnDefinitions>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="auto"/>
+                        <RowDefinition Height="auto"/>
+                        <RowDefinition Height="auto"/>
+                        <RowDefinition Height="auto"/>
+                        <RowDefinition Height="auto"/>
+                        <RowDefinition Height="auto"/>
+                        <RowDefinition Height="auto"/>
+                        <RowDefinition Height="24"/>
+                        <RowDefinition Height="auto"/>
+                        <RowDefinition Height="auto"/>
+                        <RowDefinition/>
+                    </Grid.RowDefinitions>
+                    <Label HorizontalAlignment="Center" Content="{x:Static resx:GlobalResources.Kategoria}" Grid.Row="0" Style="{StaticResource LabelStandardowy}"/>
+                    <ComboBox Grid.Row="1" Style="{StaticResource ComboBoxStandardowy}" IsEnabled="False">
+                        <ComboBoxItem Content="ZAINTERESOWANI" IsSelected="True"/>
+                    </ComboBox>
+                    <Label HorizontalAlignment="Center" Content="{x:Static resx:GlobalResources.KategoriaPomocnicza}" Grid.Row="2" Style="{StaticResource LabelStandardowy}"/>
+                    <ComboBox Grid.Row="3" Style="{StaticResource ComboBoxStandardowy}">
+                    </ComboBox>
+                    <Label HorizontalAlignment="Center" Content="{x:Static resx:GlobalResources.FormaPlatnosci}" Grid.Row="4" Style="{StaticResource LabelStandardowy}"/>
+                    <ComboBox Grid.Row="5" Style="{StaticResource ComboBoxStandardowy}" IsEnabled="False">
+                        <ComboBoxItem Content="gotówka" IsSelected="True"/>
+                    </ComboBox>
+                    <CheckBox Content="{x:Static resx:GlobalResources.LimitKupiecki}" Grid.Row="6" Style="{StaticResource CheckBoxStandardowy}"/>
+                    <Label HorizontalAlignment="Center" Content="{x:Static resx:GlobalResources.TerminPlatnosci}" Grid.Row="8" Style="{StaticResource LabelStandardowy}"/>
+                    <DatePicker Grid.Row="9" Style="{StaticResource DatePickerStandardowy}"/>
+                    <Label HorizontalAlignment="Center" Content="{x:Static resx:GlobalResources.Rabat}" Grid.Row="8" Grid.Column="1" Style="{StaticResource LabelStandardowy}"/>
+                    <TextBox Grid.Row="9" Grid.Column="1" Text="0,00 %" Style="{StaticResource TextBoxStandardowy}"/>
+                </Grid>
+            </GroupBox>
+
+            <DataGrid Grid.Row="2" Grid.ColumnSpan="2" Style="{StaticResource DataGridStandardowy}">
+                <DataGrid.Columns>
+                    <DataGridTextColumn Header="{x:Static resx:GlobalResources.ImieINazwisko}"/>
+                    <DataGridTextColumn Header="{x:Static resx:GlobalResources.Stanowisko}"/>
+                    <DataGridTextColumn Header="{x:Static resx:GlobalResources.Telefon}"/>
+                    <DataGridTextColumn Header="{x:Static resx:GlobalResources.TelefonKomorkowy}"/>
+                    <DataGridTextColumn Header="{x:Static resx:GlobalResources.EMail}"/>
+                </DataGrid.Columns>
+            </DataGrid>
+        </Grid>
+    </ScrollViewer>
+</UserControl>

@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="Views\NowaFakturaView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\NowyTowarView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\WszystkieFakturyView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\WszystkieTowaryView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="Views\MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\MainWindowResources.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\MojeOtwarteZamowieniaView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\MojeZamknieteZamowieniaView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\DodajStolikView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\GrafikView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\NowaKategoriaView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\DodajProduktDoKategoriiView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\MagazynProduktowView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\MojaZmianaView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\WszyscyDostawcyView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\TaZmianaZamowieniaView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\NowyDostawcaView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\DaneRestauracjiView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\WszyscyPracownicyView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\NowyPracownikView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\WszystkieDrukarkiView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\WszystkieRezerwacjeView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\WszystkieWynagrodzeniaView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\WszystkieZamowieniaView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\WszystkieStolikiView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\WszystkieKategorieView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\ZamknijZmianeView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\ZakonczZamowienieView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\NoweZamowienieView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\NowaFakturaView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\NowyTowarView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\StyleZakladekResources.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\WszystkieFakturyView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\WszystkieTowaryView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>

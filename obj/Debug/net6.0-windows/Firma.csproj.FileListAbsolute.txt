@@ -1,0 +1,112 @@
+C:\Users\akornatka\Desktop\Zajecia\TIU2022\Firma\Firma\bin\Debug\net6.0-windows\Firma.exe
+C:\Users\akornatka\Desktop\Zajecia\TIU2022\Firma\Firma\bin\Debug\net6.0-windows\Firma.deps.json
+C:\Users\akornatka\Desktop\Zajecia\TIU2022\Firma\Firma\bin\Debug\net6.0-windows\Firma.runtimeconfig.json
+C:\Users\akornatka\Desktop\Zajecia\TIU2022\Firma\Firma\bin\Debug\net6.0-windows\Firma.dll
+C:\Users\akornatka\Desktop\Zajecia\TIU2022\Firma\Firma\bin\Debug\net6.0-windows\ref\Firma.dll
+C:\Users\akornatka\Desktop\Zajecia\TIU2022\Firma\Firma\bin\Debug\net6.0-windows\Firma.pdb
+C:\Users\akornatka\Desktop\Zajecia\TIU2022\Firma\Firma\obj\Debug\net6.0-windows\Firma.csproj.AssemblyReference.cache
+C:\Users\akornatka\Desktop\Zajecia\TIU2022\Firma\Firma\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\akornatka\Desktop\Zajecia\TIU2022\Firma\Firma\obj\Debug\net6.0-windows\Firma_MarkupCompile.cache
+C:\Users\akornatka\Desktop\Zajecia\TIU2022\Firma\Firma\obj\Debug\net6.0-windows\Firma_MarkupCompile.lref
+C:\Users\akornatka\Desktop\Zajecia\TIU2022\Firma\Firma\obj\Debug\net6.0-windows\Firma.g.resources
+C:\Users\akornatka\Desktop\Zajecia\TIU2022\Firma\Firma\obj\Debug\net6.0-windows\Firma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akornatka\Desktop\Zajecia\TIU2022\Firma\Firma\obj\Debug\net6.0-windows\Firma.AssemblyInfoInputs.cache
+C:\Users\akornatka\Desktop\Zajecia\TIU2022\Firma\Firma\obj\Debug\net6.0-windows\Firma.AssemblyInfo.cs
+C:\Users\akornatka\Desktop\Zajecia\TIU2022\Firma\Firma\obj\Debug\net6.0-windows\Firma.csproj.CoreCompileInputs.cache
+C:\Users\akornatka\Desktop\Zajecia\TIU2022\Firma\Firma\obj\Debug\net6.0-windows\Firma.dll
+C:\Users\akornatka\Desktop\Zajecia\TIU2022\Firma\Firma\obj\Debug\net6.0-windows\ref\Firma.dll
+C:\Users\akornatka\Desktop\Zajecia\TIU2022\Firma\Firma\obj\Debug\net6.0-windows\Firma.pdb
+C:\Users\akornatka\Desktop\Zajecia\TIU2022\Firma\Firma\obj\Debug\net6.0-windows\Firma.genruntimeconfig.cache
+C:\Users\akornatka\Desktop\Zajecia\TIU2022\Firma\Firma\obj\Debug\net6.0-windows\Views\MainWindow.g.cs
+C:\Users\akornatka\Desktop\Zajecia\TIU2022\Firma\Firma\obj\Debug\net6.0-windows\Views\MainWindow.baml
+C:\Users\akornatka\Desktop\Zajecia\TIU2022\Firma\Firma\obj\Debug\net6.0-windows\Views\NowyTowarView.g.cs
+C:\Users\akornatka\Desktop\Zajecia\TIU2022\Firma\Firma\obj\Debug\net6.0-windows\Views\NowyTowarView.baml
+C:\Users\akornatka\Desktop\Zajecia\TIU2022\Firma\Firma\obj\Debug\net6.0-windows\Views\WszystkieTowaryView.g.cs
+C:\Users\akornatka\Desktop\Zajecia\TIU2022\Firma\Firma\obj\Debug\net6.0-windows\Views\WszystkieTowaryView.baml
+C:\Users\akornatka\Desktop\Zajecia\TIU2022\Firma\Firma\obj\Debug\net6.0-windows\Views\MainWindowResources.baml
+C:\Users\akornatka\Desktop\Zajecia\TIU2022\Firma\Firma\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\akornatka\Desktop\Zajecia\TIU2022\Firma\Firma\obj\Debug\net6.0-windows\Views\NowaFakturaView.g.cs
+C:\Users\akornatka\Desktop\Zajecia\TIU2022\Firma\Firma\obj\Debug\net6.0-windows\Views\WszystkieFakturyView.g.cs
+C:\Users\akornatka\Desktop\Zajecia\TIU2022\Firma\Firma\obj\Debug\net6.0-windows\Views\NowaFakturaView.baml
+C:\Users\akornatka\Desktop\Zajecia\TIU2022\Firma\Firma\obj\Debug\net6.0-windows\Views\WszystkieFakturyView.baml
+C:\Users\akornatka\Desktop\Zajecia\TIU2022\Firma\Firma\obj\Debug\net6.0-windows\Views\StyleZakladekResources.baml
+C:\Users\lenovo\Desktop\STUDIA\semestr4\Tworzenie interfejsów użytkownika\ćwiczenia\Firma1\Firma\Firma\bin\Debug\net6.0-windows\Firma.exe
+C:\Users\lenovo\Desktop\STUDIA\semestr4\Tworzenie interfejsów użytkownika\ćwiczenia\Firma1\Firma\Firma\bin\Debug\net6.0-windows\Firma.deps.json
+C:\Users\lenovo\Desktop\STUDIA\semestr4\Tworzenie interfejsów użytkownika\ćwiczenia\Firma1\Firma\Firma\bin\Debug\net6.0-windows\Firma.runtimeconfig.json
+C:\Users\lenovo\Desktop\STUDIA\semestr4\Tworzenie interfejsów użytkownika\ćwiczenia\Firma1\Firma\Firma\bin\Debug\net6.0-windows\Firma.dll
+C:\Users\lenovo\Desktop\STUDIA\semestr4\Tworzenie interfejsów użytkownika\ćwiczenia\Firma1\Firma\Firma\bin\Debug\net6.0-windows\Firma.pdb
+C:\Users\lenovo\Desktop\STUDIA\semestr4\Tworzenie interfejsów użytkownika\ćwiczenia\Firma1\Firma\Firma\obj\Debug\net6.0-windows\Firma.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\STUDIA\semestr4\Tworzenie interfejsów użytkownika\ćwiczenia\Firma1\Firma\Firma\obj\Debug\net6.0-windows\Views\StyleZakladekResources.baml
+C:\Users\lenovo\Desktop\STUDIA\semestr4\Tworzenie interfejsów użytkownika\ćwiczenia\Firma1\Firma\Firma\obj\Debug\net6.0-windows\Views\MainWindow.g.cs
+C:\Users\lenovo\Desktop\STUDIA\semestr4\Tworzenie interfejsów użytkownika\ćwiczenia\Firma1\Firma\Firma\obj\Debug\net6.0-windows\Views\NowaFakturaView.g.cs
+C:\Users\lenovo\Desktop\STUDIA\semestr4\Tworzenie interfejsów użytkownika\ćwiczenia\Firma1\Firma\Firma\obj\Debug\net6.0-windows\Views\NowyTowarView.g.cs
+C:\Users\lenovo\Desktop\STUDIA\semestr4\Tworzenie interfejsów użytkownika\ćwiczenia\Firma1\Firma\Firma\obj\Debug\net6.0-windows\Views\WszystkieFakturyView.g.cs
+C:\Users\lenovo\Desktop\STUDIA\semestr4\Tworzenie interfejsów użytkownika\ćwiczenia\Firma1\Firma\Firma\obj\Debug\net6.0-windows\Views\WszystkieTowaryView.g.cs
+C:\Users\lenovo\Desktop\STUDIA\semestr4\Tworzenie interfejsów użytkownika\ćwiczenia\Firma1\Firma\Firma\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\lenovo\Desktop\STUDIA\semestr4\Tworzenie interfejsów użytkownika\ćwiczenia\Firma1\Firma\Firma\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\lenovo\Desktop\STUDIA\semestr4\Tworzenie interfejsów użytkownika\ćwiczenia\Firma1\Firma\Firma\obj\Debug\net6.0-windows\Firma_MarkupCompile.cache
+C:\Users\lenovo\Desktop\STUDIA\semestr4\Tworzenie interfejsów użytkownika\ćwiczenia\Firma1\Firma\Firma\obj\Debug\net6.0-windows\Firma_MarkupCompile.lref
+C:\Users\lenovo\Desktop\STUDIA\semestr4\Tworzenie interfejsów użytkownika\ćwiczenia\Firma1\Firma\Firma\obj\Debug\net6.0-windows\Views\MainWindow.baml
+C:\Users\lenovo\Desktop\STUDIA\semestr4\Tworzenie interfejsów użytkownika\ćwiczenia\Firma1\Firma\Firma\obj\Debug\net6.0-windows\Views\MainWindowResources.baml
+C:\Users\lenovo\Desktop\STUDIA\semestr4\Tworzenie interfejsów użytkownika\ćwiczenia\Firma1\Firma\Firma\obj\Debug\net6.0-windows\Views\NowaFakturaView.baml
+C:\Users\lenovo\Desktop\STUDIA\semestr4\Tworzenie interfejsów użytkownika\ćwiczenia\Firma1\Firma\Firma\obj\Debug\net6.0-windows\Views\NowyTowarView.baml
+C:\Users\lenovo\Desktop\STUDIA\semestr4\Tworzenie interfejsów użytkownika\ćwiczenia\Firma1\Firma\Firma\obj\Debug\net6.0-windows\Views\WszystkieFakturyView.baml
+C:\Users\lenovo\Desktop\STUDIA\semestr4\Tworzenie interfejsów użytkownika\ćwiczenia\Firma1\Firma\Firma\obj\Debug\net6.0-windows\Views\WszystkieTowaryView.baml
+C:\Users\lenovo\Desktop\STUDIA\semestr4\Tworzenie interfejsów użytkownika\ćwiczenia\Firma1\Firma\Firma\obj\Debug\net6.0-windows\Firma.g.resources
+C:\Users\lenovo\Desktop\STUDIA\semestr4\Tworzenie interfejsów użytkownika\ćwiczenia\Firma1\Firma\Firma\obj\Debug\net6.0-windows\Firma.ViewResources.GlobalResources.resources
+C:\Users\lenovo\Desktop\STUDIA\semestr4\Tworzenie interfejsów użytkownika\ćwiczenia\Firma1\Firma\Firma\obj\Debug\net6.0-windows\Firma.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\STUDIA\semestr4\Tworzenie interfejsów użytkownika\ćwiczenia\Firma1\Firma\Firma\obj\Debug\net6.0-windows\Firma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\STUDIA\semestr4\Tworzenie interfejsów użytkownika\ćwiczenia\Firma1\Firma\Firma\obj\Debug\net6.0-windows\Firma.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\STUDIA\semestr4\Tworzenie interfejsów użytkownika\ćwiczenia\Firma1\Firma\Firma\obj\Debug\net6.0-windows\Firma.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\STUDIA\semestr4\Tworzenie interfejsów użytkownika\ćwiczenia\Firma1\Firma\Firma\obj\Debug\net6.0-windows\Firma.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\STUDIA\semestr4\Tworzenie interfejsów użytkownika\ćwiczenia\Firma1\Firma\Firma\obj\Debug\net6.0-windows\Firma.dll
+C:\Users\lenovo\Desktop\STUDIA\semestr4\Tworzenie interfejsów użytkownika\ćwiczenia\Firma1\Firma\Firma\obj\Debug\net6.0-windows\refint\Firma.dll
+C:\Users\lenovo\Desktop\STUDIA\semestr4\Tworzenie interfejsów użytkownika\ćwiczenia\Firma1\Firma\Firma\obj\Debug\net6.0-windows\Firma.pdb
+C:\Users\lenovo\Desktop\STUDIA\semestr4\Tworzenie interfejsów użytkownika\ćwiczenia\Firma1\Firma\Firma\obj\Debug\net6.0-windows\Firma.genruntimeconfig.cache
+C:\Users\lenovo\Desktop\STUDIA\semestr4\Tworzenie interfejsów użytkownika\ćwiczenia\Firma1\Firma\Firma\obj\Debug\net6.0-windows\ref\Firma.dll
+C:\Users\lenovo\Desktop\STUDIA\semestr4\Tworzenie interfejsów użytkownika\ćwiczenia\Firma1\Firma\Firma\obj\Debug\net6.0-windows\Views\NoweZamowienieView.g.cs
+C:\Users\lenovo\Desktop\STUDIA\semestr4\Tworzenie interfejsów użytkownika\ćwiczenia\Firma1\Firma\Firma\obj\Debug\net6.0-windows\Views\NoweZamowienieView.baml
+C:\Users\lenovo\Desktop\STUDIA\semestr4\Tworzenie interfejsów użytkownika\ćwiczenia\Firma1\Firma\Firma\obj\Debug\net6.0-windows\Views\ZakonczZamowienieView.g.cs
+C:\Users\lenovo\Desktop\STUDIA\semestr4\Tworzenie interfejsów użytkownika\ćwiczenia\Firma1\Firma\Firma\obj\Debug\net6.0-windows\Views\ZakonczZamowienieView.baml
+C:\Users\lenovo\Desktop\STUDIA\semestr4\Tworzenie interfejsów użytkownika\ćwiczenia\Firma1\Firma\Firma\obj\Debug\net6.0-windows\Views\MojeOtwarteZamowieniaView.g.cs
+C:\Users\lenovo\Desktop\STUDIA\semestr4\Tworzenie interfejsów użytkownika\ćwiczenia\Firma1\Firma\Firma\obj\Debug\net6.0-windows\Views\MojeZamknieteZamowieniaView.g.cs
+C:\Users\lenovo\Desktop\STUDIA\semestr4\Tworzenie interfejsów użytkownika\ćwiczenia\Firma1\Firma\Firma\obj\Debug\net6.0-windows\Views\MojeOtwarteZamowieniaView.baml
+C:\Users\lenovo\Desktop\STUDIA\semestr4\Tworzenie interfejsów użytkownika\ćwiczenia\Firma1\Firma\Firma\obj\Debug\net6.0-windows\Views\MojeZamknieteZamowieniaView.baml
+C:\Users\lenovo\Desktop\STUDIA\semestr4\Tworzenie interfejsów użytkownika\ćwiczenia\Firma1\Firma\Firma\obj\Debug\net6.0-windows\Views\ZamknijZmianeView.g.cs
+C:\Users\lenovo\Desktop\STUDIA\semestr4\Tworzenie interfejsów użytkownika\ćwiczenia\Firma1\Firma\Firma\obj\Debug\net6.0-windows\Views\ZamknijZmianeView.baml
+C:\Users\lenovo\Desktop\STUDIA\semestr4\Tworzenie interfejsów użytkownika\ćwiczenia\Firma1\Firma\Firma\obj\Debug\net6.0-windows\Views\WszystkieKategorieView.g.cs
+C:\Users\lenovo\Desktop\STUDIA\semestr4\Tworzenie interfejsów użytkownika\ćwiczenia\Firma1\Firma\Firma\obj\Debug\net6.0-windows\Views\WszystkieKategorieView.baml
+C:\Users\lenovo\Desktop\STUDIA\semestr4\Tworzenie interfejsów użytkownika\ćwiczenia\Firma1\Firma\Firma\obj\Debug\net6.0-windows\Views\NowaKategoriaView.g.cs
+C:\Users\lenovo\Desktop\STUDIA\semestr4\Tworzenie interfejsów użytkownika\ćwiczenia\Firma1\Firma\Firma\obj\Debug\net6.0-windows\Views\NowaKategoriaView.baml
+C:\Users\lenovo\Desktop\STUDIA\semestr4\Tworzenie interfejsów użytkownika\ćwiczenia\Firma1\Firma\Firma\obj\Debug\net6.0-windows\Views\DodajProduktDoKategoriiView.g.cs
+C:\Users\lenovo\Desktop\STUDIA\semestr4\Tworzenie interfejsów użytkownika\ćwiczenia\Firma1\Firma\Firma\obj\Debug\net6.0-windows\Views\DodajProduktDoKategoriiView.baml
+C:\Users\lenovo\Desktop\STUDIA\semestr4\Tworzenie interfejsów użytkownika\ćwiczenia\Firma1\Firma\Firma\obj\Debug\net6.0-windows\Views\WszystkieStolikiView.g.cs
+C:\Users\lenovo\Desktop\STUDIA\semestr4\Tworzenie interfejsów użytkownika\ćwiczenia\Firma1\Firma\Firma\obj\Debug\net6.0-windows\Views\WszystkieStolikiView.baml
+C:\Users\lenovo\Desktop\STUDIA\semestr4\Tworzenie interfejsów użytkownika\ćwiczenia\Firma1\Firma\Firma\obj\Debug\net6.0-windows\Views\DodajStolikView.g.cs
+C:\Users\lenovo\Desktop\STUDIA\semestr4\Tworzenie interfejsów użytkownika\ćwiczenia\Firma1\Firma\Firma\obj\Debug\net6.0-windows\Views\DodajStolikView.baml
+C:\Users\lenovo\Desktop\STUDIA\semestr4\Tworzenie interfejsów użytkownika\ćwiczenia\Firma1\Firma\Firma\obj\Debug\net6.0-windows\Views\WszystkieZamowieniaView.g.cs
+C:\Users\lenovo\Desktop\STUDIA\semestr4\Tworzenie interfejsów użytkownika\ćwiczenia\Firma1\Firma\Firma\obj\Debug\net6.0-windows\Views\WszystkieZamowieniaView.baml
+C:\Users\lenovo\Desktop\STUDIA\semestr4\Tworzenie interfejsów użytkownika\ćwiczenia\Firma1\Firma\Firma\obj\Debug\net6.0-windows\Views\TaZmianaZamowieniaView.g.cs
+C:\Users\lenovo\Desktop\STUDIA\semestr4\Tworzenie interfejsów użytkownika\ćwiczenia\Firma1\Firma\Firma\obj\Debug\net6.0-windows\Views\TaZmianaZamowieniaView.baml
+C:\Users\lenovo\Desktop\STUDIA\semestr4\Tworzenie interfejsów użytkownika\ćwiczenia\Firma1\Firma\Firma\obj\Debug\net6.0-windows\Views\MagazynProduktowView.g.cs
+C:\Users\lenovo\Desktop\STUDIA\semestr4\Tworzenie interfejsów użytkownika\ćwiczenia\Firma1\Firma\Firma\obj\Debug\net6.0-windows\Views\MagazynProduktowView.baml
+C:\Users\lenovo\Desktop\STUDIA\semestr4\Tworzenie interfejsów użytkownika\ćwiczenia\Firma1\Firma\Firma\obj\Debug\net6.0-windows\Views\NowyDostawcaView.g.cs
+C:\Users\lenovo\Desktop\STUDIA\semestr4\Tworzenie interfejsów użytkownika\ćwiczenia\Firma1\Firma\Firma\obj\Debug\net6.0-windows\Views\NowyDostawcaView.baml
+C:\Users\lenovo\Desktop\STUDIA\semestr4\Tworzenie interfejsów użytkownika\ćwiczenia\Firma1\Firma\Firma\obj\Debug\net6.0-windows\Views\WszyscyDostawcyView.g.cs
+C:\Users\lenovo\Desktop\STUDIA\semestr4\Tworzenie interfejsów użytkownika\ćwiczenia\Firma1\Firma\Firma\obj\Debug\net6.0-windows\Views\WszyscyDostawcyView.baml
+C:\Users\lenovo\Desktop\STUDIA\semestr4\Tworzenie interfejsów użytkownika\ćwiczenia\Firma1\Firma\Firma\obj\Debug\net6.0-windows\Views\WszystkieWynagrodzeniaView.g.cs
+C:\Users\lenovo\Desktop\STUDIA\semestr4\Tworzenie interfejsów użytkownika\ćwiczenia\Firma1\Firma\Firma\obj\Debug\net6.0-windows\Views\WszystkieWynagrodzeniaView.baml
+C:\Users\lenovo\Desktop\STUDIA\semestr4\Tworzenie interfejsów użytkownika\ćwiczenia\Firma1\Firma\Firma\obj\Debug\net6.0-windows\Views\DaneRestauracjiView.g.cs
+C:\Users\lenovo\Desktop\STUDIA\semestr4\Tworzenie interfejsów użytkownika\ćwiczenia\Firma1\Firma\Firma\obj\Debug\net6.0-windows\Views\DaneRestauracjiView.baml
+C:\Users\lenovo\Desktop\STUDIA\semestr4\Tworzenie interfejsów użytkownika\ćwiczenia\Firma1\Firma\Firma\obj\Debug\net6.0-windows\Views\GrafikView.g.cs
+C:\Users\lenovo\Desktop\STUDIA\semestr4\Tworzenie interfejsów użytkownika\ćwiczenia\Firma1\Firma\Firma\obj\Debug\net6.0-windows\Views\GrafikView.baml
+C:\Users\lenovo\Desktop\STUDIA\semestr4\Tworzenie interfejsów użytkownika\ćwiczenia\Firma1\Firma\Firma\obj\Debug\net6.0-windows\Views\WszyscyPracownicyView.g.cs
+C:\Users\lenovo\Desktop\STUDIA\semestr4\Tworzenie interfejsów użytkownika\ćwiczenia\Firma1\Firma\Firma\obj\Debug\net6.0-windows\Views\WszyscyPracownicyView.baml
+C:\Users\lenovo\Desktop\STUDIA\semestr4\Tworzenie interfejsów użytkownika\ćwiczenia\Firma1\Firma\Firma\obj\Debug\net6.0-windows\Views\NowyPracownikView.g.cs
+C:\Users\lenovo\Desktop\STUDIA\semestr4\Tworzenie interfejsów użytkownika\ćwiczenia\Firma1\Firma\Firma\obj\Debug\net6.0-windows\Views\NowyPracownikView.baml
+C:\Users\lenovo\Desktop\STUDIA\semestr4\Tworzenie interfejsów użytkownika\ćwiczenia\Firma1\Firma\Firma\obj\Debug\net6.0-windows\Views\WszystkieDrukarkiView.g.cs
+C:\Users\lenovo\Desktop\STUDIA\semestr4\Tworzenie interfejsów użytkownika\ćwiczenia\Firma1\Firma\Firma\obj\Debug\net6.0-windows\Views\WszystkieDrukarkiView.baml
+C:\Users\lenovo\Desktop\STUDIA\semestr4\Tworzenie interfejsów użytkownika\ćwiczenia\Firma1\Firma\Firma\obj\Debug\net6.0-windows\Views\WszystkieRezerwacjeView.g.cs
+C:\Users\lenovo\Desktop\STUDIA\semestr4\Tworzenie interfejsów użytkownika\ćwiczenia\Firma1\Firma\Firma\obj\Debug\net6.0-windows\Views\WszystkieRezerwacjeView.baml
+C:\Users\lenovo\Desktop\STUDIA\semestr4\Tworzenie interfejsów użytkownika\ćwiczenia\Firma1\Firma\Firma\obj\Debug\net6.0-windows\Views\MojaZmianaView.g.cs
+C:\Users\lenovo\Desktop\STUDIA\semestr4\Tworzenie interfejsów użytkownika\ćwiczenia\Firma1\Firma\Firma\obj\Debug\net6.0-windows\Views\MojaZmianaView.baml

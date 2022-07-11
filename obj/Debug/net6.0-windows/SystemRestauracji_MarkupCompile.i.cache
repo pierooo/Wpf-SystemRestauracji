@@ -1,0 +1,20 @@
+﻿SystemRestauracji
+1.0.0.0
+
+winexe
+C#
+.cs
+C:\Users\lenovo\Desktop\STUDIA\semestr4\Tworzenie interfejsów użytkownika\SystemRestauracji\Firma\obj\Debug\net6.0-windows\
+SystemRestauracji
+none
+false
+TRACE;DEBUG;NET;NET6_0;NETCOREAPP
+C:\Users\lenovo\Desktop\STUDIA\semestr4\Tworzenie interfejsów użytkownika\SystemRestauracji\Firma\App.xaml
+30541302048
+
+65-1731724244
+1941645785384
+Views\DaneRestauracjiView.xaml;Views\DodajProduktDoKategoriiView.xaml;Views\DodajStolikView.xaml;Views\GrafikView.xaml;Views\MagazynProduktowView.xaml;Views\MainWindow.xaml;Views\MainWindowResources.xaml;Views\MojaZmianaView.xaml;Views\MojeOtwarteZamowieniaView.xaml;Views\MojeZamknieteZamowieniaView.xaml;Views\NowaFakturaView.xaml;Views\NowaKategoriaView.xaml;Views\NoweZamowienieView.xaml;Views\NowyDostawcaView.xaml;Views\NowyPracownikView.xaml;Views\NowyTowarView.xaml;Views\StyleZakladekResources.xaml;Views\TaZmianaZamowieniaView.xaml;Views\WszyscyDostawcyView.xaml;Views\WszyscyPracownicyView.xaml;Views\WszystkieDrukarkiView.xaml;Views\WszystkieFakturyView.xaml;Views\WszystkieKategorieView.xaml;Views\WszystkieRezerwacjeView.xaml;Views\WszystkieStolikiView.xaml;Views\WszystkieTowaryView.xaml;Views\WszystkieWynagrodzeniaView.xaml;Views\WszystkieZamowieniaView.xaml;Views\ZakonczZamowienieView.xaml;Views\ZamknijZmianeView.xaml;
+
+True
+
